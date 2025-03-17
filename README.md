@@ -1,4 +1,4 @@
 my_project
 :)
-summer
-hello
+cat
+home
