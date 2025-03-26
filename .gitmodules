@@ -1,0 +1,3 @@
+[submodule "libs/repo"]
+	path = libs/repo
+	url = https://github.com/Tasyya/my_project.git
